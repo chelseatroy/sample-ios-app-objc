@@ -2,7 +2,7 @@
 //  MasterViewController.m
 //  sample-ios-application-objc
 //
-//  Created by Pivotal on 2015-11-15.
+
 //
 //
 

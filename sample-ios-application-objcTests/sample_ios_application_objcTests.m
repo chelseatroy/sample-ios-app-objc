@@ -2,7 +2,7 @@
 //  sample_ios_application_objcTests.m
 //  sample-ios-application-objcTests
 //
-//  Created by Pivotal on 2015-11-15.
+
 //
 //
 
